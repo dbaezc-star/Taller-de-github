@@ -1,0 +1,12 @@
+/* Esto es un comentario en CSS */
+h1 {
+    color: #333333; /* Cambia el color del título a gris oscuro */
+    text-align: center; /* Centra el texto */
+    font-family: Arial, sans-serif; /* Define la fuente */
+  }
+  
+  p {
+    color: #666666; /* Cambia el color del párrafo a gris */
+    line-height: 1.5; /* Aumenta el espacio entre líneas */
+  }
+  
